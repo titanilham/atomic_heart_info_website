@@ -1,0 +1,156 @@
+body{
+
+    overflow-x: hidden;
+
+}
+
+
+.panel{
+    position:  absolute; top: -1px; left: -10px;
+    width: 110%;
+    height: 80px;
+    background: #1f1f1f;
+
+}
+
+.heading2{
+
+    position: relative; bottom: 130px;
+    font-family: Courier New, monospace;
+    font-size: 20px;
+    
+
+}
+
+.heading{
+    font-family: Andale Mono, monospace;
+    font-size: 30px;
+    position: relative; top: 560px;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.info{
+    font-family: Andale Mono, monospace;
+    position: absolute; top: 690px; left: 200px;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    
+    
+}
+
+.square{
+
+    position: absolute; top: 684px; left: -10px;
+    width: 110%;
+    height: 260px;
+    background: #000000;
+    box-shadow: 0 0 10px 8px 
+
+}
+
+.game{
+
+    font-family: Andale Mono, monospace;
+    cursor: default;
+    position: relative; right: 650px;
+    font-size: 50px;
+    display: inline;
+
+}
+.game:hover{
+
+    color: rgb(255, 145, 0);
+
+}
+
+
+.home{
+
+    position: relative; left: 480px; 
+    cursor: pointer;
+    font-size: 30px;
+    display: inline;
+    
+}
+
+.home:hover{
+
+    color: rgb(255, 145, 0);
+
+}
+
+.career{
+    
+    cursor: pointer;
+    font-family: Andale Mono, monospace;
+    position: relative; left: 480px; 
+    display: inline;
+    font-size: 30px;
+
+}
+
+.career:hover{
+
+    color: rgb(255, 145, 0);
+
+}
+
+.company{
+
+    cursor: pointer;
+    font-family: Andale Mono, monospace;
+    position: relative; left: 335px;
+    display: inline;
+    font-size: 30px;
+
+}
+
+.company:hover{
+
+    color: rgb(255, 145, 0);
+
+}
+
+
+.world{
+
+    cursor: pointer;
+    font-family: Andale Mono, monospace;
+    position: relative; left: 335px;
+    display: inline;
+    font-size: 30px;
+
+}
+
+.world:hover{
+
+    color: rgb(255, 145, 0);
+
+}
+
+.wrapper{
+
+    position: relative; bottom: 765px;
+
+}
+
+.button_text{
+
+    cursor: pointer;
+    font-family: Andale Mono, monospace;
+    position: relative; left: 355px; top: 5px;
+    display: inline;
+    font-size: 45px;
+    
+
+}
+
+.button_text:hover{
+
+    background: rgb(255, 157, 29);
+
+}
+
